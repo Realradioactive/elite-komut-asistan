@@ -1,0 +1,82 @@
+SON KULLANICI YAZILIM KULLANMA LÝSANS SÖZLEÞMESÝ
+1. UYARI
+LÜTFEN BU SÖZLEÞMEYÝ DÝKKTLÝCE OKUYUNUZ. BU SÖZLEÞME, SÝZÝN YAZILIMLARIMIZDAN FAYDALANABÝLMENÝZ ÝÇÝN GEREKLÝ KOÞULLARI ÝÇERMEKTEDÝR. YAZILIMDAN FAYDALANMAK AMACIYLA BU SÖZLEÞMEYÝ ONAYLAYARAK, YAZILIMI BÝLGÝSAYARINIZA ÝNDÝRÝREREK YA DA YAZILIMI KULLANARAK, SÖZLEÞME'YÝ OKUDUÐUNUZU, ÝÇERÝÐÝNÝ ANLADIÐINIZI VE HÜKÜMLERÝNÝ KABUL ETTÝÐÝNÝZÝ BEYAN ETMÝÞ OLUYORSUNUZ. BU KOÞULLARI KABUL ETMÝYORSANIZ YAZILIMI YÜKLEMEYÝN YA DA KULLANMAYIN.
+2. TANIMLAR
+a) “VAYCANINA.COM”: Yazýlým’ýn fikri ve sýnaî mülkiyet haklarýna sahip vaycanýna.com sitesini tanýmlar.
+b) “KULLANICI”: Sözleþme uyarýnca, haklarý VAYCANINA.COM’a ait yazýlýmýn kullanma lisans haklarýný satýn alan özel ya da tüzel kiþiliðini tanýmlar.
+c) “YAZILIM”: Sözleþme kapsamýnda KULLANICI’nýn lisans ve kullaným hakkýna sahip olduðu, mülkiyet, mali/telif haklarý VAYCANINA.COM’a ait olan; VAYCANINA.COM tarafýndan geliþtirilen insan veya makine tarafýndan okunabilir formdaki bilgisayar programýný tanýmlar.
+d) “YAZILIM KULLANMA LÝSANSI”: Lisans Sözleþmesi, Yazýlýma ait dokümantasyon ve Fikir ve Sanat Eserleri Kanununda tanýmlanan Yazýlýmý kullanabilmek için gerekli lisansý tanýmlar. Bu Sözleþmede VAYCANINA.COM Yazýlým ürününe baðlý lisans anlamýnda kullanýlmýþtýr.
+e) “ÜÇÜNCÜ ÞAHIS”: Bu Sözleþme’nin taraflarý dýþýnda kalan; gerçek kiþi, þahýs veya sermaye þirketi veya kurum, kuruluþ, vakýf, dernek vb. hukuki iþlem ehliyetine sahip; yerli, yabancý bütün kamu ve özel “kiþilerini” kapsamak üzere kullanýlmýþtýr.
+3. SÖZLEÞMENÝN KONUSU
+a) Bu sözleþme ile KULLANICI, ismi ve özellikleri bu Sözleþme ile kendi dokümantasyonunda belirtilen bilgisayar programýnýn (“Yazýlým”) “Süresiz Kullaným Lisansýný” almýþtýr. Münhasýr olmayan süresiz kullaným lisansý dýþýnda kalan diðer tüm fikri/mülkiyet haklarý VAYCANINA.COM’a ait olup bu Sözleþme kapsamý dýþýndadýr.
+4. LÝSANS KOÞULLARI
+4.1 Süresiz Kullanma Lisansý
+Kullanma lisansý KULLANICI' ya, Yazýlýmý bu Sözleþmede belirtilen hak ve sýnýrlar çerçevesinde, faturada belirtilen adreste, lisansta belirtilen kullanýcý sayýsýný aþmamak koþuluyla, Yazýlýmýn çalýþmasýna uygun konfigürasyonda bir bilgisayara yükleme, kurma, süresiz olarak çalýþtýrma, görüntüleme ve kullanma hakký verir.
+4.2 Kullanma Lisansýnýn Niteliði
+Sözleþme konusu Yazýlýmý kullanma lisansý; "süre ile sýnýrlý olmayan basit lisans" týr. VAYCANINA.COM ayný lisansý üçüncü þahýslara verme ve "mali/telif haklarýný" dilediði biçimde kullanma hakkýný saklý tutar. Sözleþme ile Yazýlýmýn satýþý yapýlmamakta yalnýzca lisansý verilmektedir. Yazýlým, VAYCANINA.COM’a ait eriþim merkezine uzaktan eriþimle ve internet yoluyla indirilir, KULLANICI’ya fiziki olarak teslim edilmez.
+
+4.3 Lisansýn Kapsamý
+Yazýlýmýnýn, kullanma lisansý her zaman bu Sözleþme koþullarýna tabidir. Lisans, Yazýlýmýn bu sözleþmede belirtilen hak ve sýnýrlar çerçevesinde bilgisayara yüklenmesi, çalýþtýrýlmasý, kullanýlmasý ve bir yedeðinin alýnmasý haklarýný kapsar. Kullanma lisansý koþullarýna ve bu Sözleþmeye aykýrý eylemlerin gerçekleþtirilmesi durumunda VAYCANINA.COM kullanýmdan men etme, Sözleþmeyi feshetme ve yasal yollara baþvurma hakkýna sahiptir. KULLANICI;
+a) Yazýlýmý ya da Yazýlým için gerekli lisans etkinleþtirme anahtarýný; ödünç veremez, kiralama gibi bedelli veya bedelsiz hiçbir surette üçüncü kiþilerin yararýna sunamaz, kullandýramaz, yeniden satamaz,
+b) Bu Sözleþme ve sahip olduðu haklarý kýsmen ya da tamamen 3. þahýslara devredemez.
+c) Yazýlýmý yürürlükte bulunan tüm ulusal ve uluslararasý mevzuata, internet kullanýmýna iliþkin kural ve yasalara aykýrý olarak kullanamaz,
+d) Lisansta belirtilen kullanýcý sayýsýný aþamaz, kullanýcý kopyasý oluþturamaz,
+e) Yazýlýmý ya da lisans etkinleþtirme anahtarýný hukuka aykýrý, amacý dýþýnda kullanamaz veya bunlarý yapmasý için herhangi bir üçüncü þahsa izin veremez ve bu yöndeki bir fiile iþtirak edemez,
+4.4 Bilgisayar Ýletiþim Aðýnda (Network) Kullanma
+KULLANICI, Yazýlýmý, lisansta belirlenen kullanýcý sayýsýný aþmamak ve birden fazla sunucuya (file-server) yüklememek þartýyla bir bilgisayar iletiþim aðý (network) altýnda kurabilir ve kullanabilir. Ancak Yazýlýmýn birden fazla sunucuya yüklenmesi ya da birden fazla kullanýcý tarafýndan kullanýlabilmesi için mutlaka yeni bir yazýlým paketi veya ek lisansýnýn alýnmasý gereklidir. KULLANICI’nýn %50 (yüzdeelli) den fazla hissesine sahip, KULLANICI ile ayný iletiþim aðýný paylaþan ve ayný sunucudan yararlanan tüzel kiþiler “Grup Þirket” sayýlýr ve bu hükmün dýþýndadýr. Grup Þirket, yazýlý koþullarý koruduðu sürece Grup Þirket kabul edilirler ve Yazýlýmý kullanabilir. KULLANICI, talep halinde Grup Þirket koþullarýnýn saðlandýðýna ve korunduðuna dair teknik ve hukuki kayýtlarý VAYCANINA.COM'a ibraz etmekle yükümlüdür. KULLANICI, Grup Þirketlerin lisans hüküm ve koþullarýna uymalarýný saðlamakla yükümlüdür.
+4.5 Garanti Koþullarý: Yazýlýmýn garanti koþullarý aþaðýda belirtilmiþtir.
+a) Yazýlým içinde yer alan varsa üçüncü þahýs yazýlýmlarýnýn lisans ve garanti koþullarý, söz konusu yazýlýmlarýn orijinal lisans sözleþmelerine/koþullarýna tabidir. VAYCANINA.COM’ýn üçüncü þahýs yazýlýmlarýna iliþkin herhangi bir garanti taahhüdü yoktur.
+b) VAYCANINA.COM, Yazýlýmýn dijital ortamda saðlanan dokümantasyonuyla uyum içinde olmasý veya tanýmlanan iþlevleri en iyi þekilde yerine getirmesi için azami özeni göstermektedir. VAYCANINA.COM, Yazýlýmýn kusursuz, hatasýz, mükemmel olduðu ve kullanýcýnýn özel ihtiyaçlarýný tamamen karþýlayacaðý þeklinde bir iddia ve taahhütte bulunmaz.
+c) VAYCANINA.COM, Yazýlýma iliþkin olarak 7 gün 24 saat kesintisiz hizmet sunulacaðýna dair bir garanti vermemekte ve bu konuda herhangi bir hizmet seviyesi taahhüdünde bulunmamaktadýr.
+d) VAYCANINA.COM’ýn;
+- Kuruluþ, yükleme, yazýlýma veya versiyona geçiþ iþlemi,
+- Yedek alma, yedeklerin geri yüklenmesi,
+- Ürün kullaným eðitimi, destek ve yerinde destek hizmetleri,
+- Form ve rapor tasarýmý ve benzeri iþ ve iþlemler ile,
+- Yazýlýmýn yanlýþ ya da mevzuata aykýrý kullanýlmasý,
+- Donaným veya iþletim sistemi arýzasý,
+- VAYCANINA.COM’a ait olmayan veritabaný yazýlýmý ve diðer yazýlým hatalarýndan,
+- Ýþletim sistemi, iletiþim aðý (network) tasarým ve baðlantý hatalarýndan,
+- Voltaj dalgalanmasý ve elektrik kesilmesinden, virüs bulaþmasýndan ve benzeri çevresel faktörlerden kaynaklanan hatalardan,
+Kullanýcý hatalarý,
+- Kullanýcý hatalarýndan kaynaklanacak bilgi ve yazýlým kayýplarý ile,
+Genel olarak donaným ile yazýlýmýn usulüne ve dokümantasyonuna uygun kullanýlmamýþ olmasýndan, yazýlýmýn çalýþmasýný etkileyen yazýlým ve/veya donaným deðiþikliði ve uygulamalarýndan, çevresel birim ve faktörlerden kaynaklanan arýza ve sorunlardan dolayý herhangi bir sorumluluðu yoktur.
+e) VAYCANINA.COM, manyetik ve elektronik ortamda saklanan bilgileri garanti etmez. Yazýlýmýn kullanýlmasý ile oluþan bilgilerin ve verilerin düzenli olarak yedeðinin, gerekli güvenlik ve koruyucu tedbirlerin alýnmasýndan ve kontrol edilmesinden KULLANICI sorumludur.
+f) VAYCANINA.COM, KULLANICI’nýn;
+- Yazýlýmý yanlýþ kullanmasý ve yükümlülüklerini yerine getirmemesi sebebiyle ortaya çýkacak zararlardan,
+- Yazýlým ile sunulan herhangi bir içerik sonucunda maruz kalýnan kayýp veya hasarlardan,
+- Yazýlýmýn kullanýlmasý sýrasýnda KULLANICI sisteminde oluþabilecek her türlü veri kayýplarýndan ve gerekli önlemlerin alýnmamasýndan, Yazýlým’ýn yedeklemesinin yapýlmamasýndan veya yapýlmýþ olmasýna raðmen ortaya çýkmýþ verilerdeki hata ve kayýplar ile bununla ilgili zararlardan, - Donaným, sistem yazýlýmý ve aðla ilgili ortaya çýkacak arýzalardan,
+- Uzaktan eriþim aðý tasarým ve baðlantý hatalarýndan,
+- Kar kaybý veya baþka nedenle ortaya çýkacak özel, dolaylý zararlardan sorumlu deðildir.
+VAYCANINA.COM, Yazýlýmýn her türlü kullanýmý nedeniyle ortaya çýkabilecek maddi, manevi, hukuki, mali sonuçlardan ve kazanç kaybý gibi doðrudan ya da dolaylý zararlardan hiçbir biçimde sorumlu deðildir. Yazýlýmýn kullanýlmasý ile ilgili olarak öne sürülecek taleplerde VAYCANINA.COM’ýn mali sorumluluðu KULLANICI’nýn ödemiþ olduðu “yazýlým kullanma lisans bedeli” ile sýnýrlýdýr.
+g) KULLANICI, kullanma lisansýný aldýðý Yazýlýmý, dokümantasyonunda belirtilen kendisinin temin edeceðini asgari teknik özelliklere sahip bir donaným üzerinde kullanacaðýný VAYCANINA.COM’ýn yazýlým donaným uyuþmazlýðý ile ilgili hiçbir sorumluluðunun bulunmadýðýný, VAYCANINA.COM’ýn sorumluluðunun Sözleþme konusu Yazýlýmýn süresiz kullanma lisansýnýn verilmesi ile sýnýrlý olduðunu kabul eder.
+
+4.6 Yazýlým Telif Haklarý
+Yazýlým ve dokümantasyonun telif/mülkiyet haklarý VAYCANINA.COM’a ait olup; Fikir ve Sanat Eserleri Kanunu, Türk Ceza Kanunu, Markalarýn Korunmasý Hakkýnda K.H.K., Türk Ticaret Kanunu hükümleri ile koruma altýna alýnmýþtýr. Kullanma lisans hakký dýþýnda kalan hukuka aykýrý kopya eylemi ve iþlemler, eylemin nevine göre 5 yýla kadar hapis ve çok yüksek miktarda adli para cezasý ile yaptýrýma baðlanmýþtýr. KULLANICI, baþka yazýlýmlar ile ara iþlerliði gerçekleþtirmek amacý ile olsa bile VAYCANINA.COM’ýn izni olmaksýzýn Yazýlýmýn kaynak kodunu, kýsmen veya tamamen parçalara ayýramaz, sýrasýný bozamaz ve sair surette yararlanamaz. Yazýlýma iliþkin materyalin ve dokümanlarýn deðiþtirilmesi, Yazýlým üzerinde hak sahipliðini gösterir VAYCANINA.COM, ticaret markalarý ile diðer unsurlarýn kaldýrmasý, gizlenmesi veya deðiþtirilmesi, baþka amaçlarla kullanýlmasý, kopya edilmesi, çoðaltýlmasý da telif haklarýnýn ihlali anlamýna gelir. Yazýlýmýn üzerinde çalýþtýðý 3. þahýslara ait veritabaný ve network yazýlýmlarýnýn kullaným lisansýna sahip olunmasýndan KULLANICI bizzat sorumludur.
+4.7 Sürüm/Versiyon Deðiþimi
+VAYCANINA.COM önceden haber vermeksizin Yazýlým ve dokümanlarýnda deðiþiklikler yapma, yeni versiyon ve sürümlerini çýkarma hakkýna sahiptir. VAYCANINA.COM eski versiyonla/sürümle girilen veya elde edilen bilgilerin yeni versiyon/sürümle de iþlenebileceði güvencesini vermez. Ancak VAYCANINA.COM, ücreti olup olmayacaðý geçiþ sýrasýnda belirlenecek þekilde, geleneksel olarak çýkardýðý her yeni versiyon için, eski versiyonla iþlenmiþ verileri yeni versiyona aktarmayý saðlayan özel yazýlým araçlarýný da saðlamaktadýr. Üretimden kalkan sürüm ve versiyonlarýn destek hizmeti VAYCANINA.COM’dan temin edilemez.
+4.8 Destek ve Danýþmanlýk Hizmetleri
+Yazýlýmýn amacýna ulaþabilmesi ve en yüksek verimi saðlayabilmesi için uygulama danýþmanlýðý hizmetleri dâhilinde kurulmasý gereklidir. Ancak uygulama danýþmanlýðý hizmetlerinin alýnmasý zorunlu deðildir. Uygulama Danýþmanlýðý hizmetleri bu konuda VAYCANINA.COM tarafýndan yetkilendirilmiþ Uygulama Ýþ Ortaklarý tarafýndan verilir. Uygulama hizmetlerinde KULLANICI memnuniyeti esastýr. Bu nedenle VAYCANINA.COM, hizmet veren 3. þahýslarý ve Uygulama Ýþ Ortaklarýný denetleyebilir. Yetkilendirilmeyen kuruluþlarýn danýþmanlýk yapmasý bu Sözleþmeye aykýrýdýr. Uygulama Danýþmanlýðý hizmeti almayan veya hizmeti yetkili Uygulama Ýþ Ortaklarýndan almayan kullanýcýlarýn yazýlýmýn kurulmasýyla ilgili sorumluluðu üzerine aldýklarý ve sadece kullaným eðitimi ile yazýlýmý istedikleri düzeyde kullanabilecekleri kabul edilir. Uygulama danýþmanlýðý hizmeti veren iþ ortaklarý kendi nam ve hesaplarýna çalýþan baðýmsýz firmalar olup, bu firmalarýn fiillerinden dolayý VAYCANINA.COM’ýn herhangi bir sorumluluðu yoktur.
+5. ÇEÞÝTLÝ HÜMÜKLER
+5.1 Süre
+Lisansýn Süresi: KULLANICI’nýn, Yazýlýmý kullanmasý ya da iþbu Sözleþmeyi kabul ettiðini beyan etmesiyle ve lisans etkinleþtirme anahtarýný Yazýlýma girmesiyle Yazýlýmýn “süresiz” kullanma lisansý yürürlük ve geçerlik kazanýr.
+5.2 Gizlilik
+a) Yazýlýmýn internet aracýlýðýyla, indirilmesi ya da herhangi bir yolla alýnmasý için KULLANICI tarafýndan girilmesi gerekli; her türlü kullanýcý adý, þifre ve benzeri verilerin doðruluðundan, güvenliðinden, saklanmasýndan ve üçüncü kiþilerin bilgisinden uzak tutulmasýndan KULLANICI sorumludur. Söz konusu verilerdeki yanlýþlýklardan ve/veya bu bilgilerinin bir baþkasý tarafýndan ele geçirilerek/öðrenilerek kullanýlmasý ya da KULLANICI adýna Yazýlýma ya da Yazýlým üzerinden ulaþýlan yerlere eriþim yapýlmasýndan KULLANICI sorumludur.
+b) VAYCANINA.COM, KULLANICI bilgilerini, KULLANICI güvenliði, kendi yükümlülüklerinin ifasý ve bazý istatistikî deðerlendirmeler için kayýt altýna alabilir, iþleyebilir, dilediði biçimde süresiz olarak yararlanabilir, kullanabilir, bunlarý bir veritabaný üzerinde tasnif edip süresiz olarak veritabanýnda tutabilir, muhafaza edebilir ve mevzuata uygun olarak yurt içine, yurt dýþýna ya da iþtiraklerine transfer edebilir.
+c) Ürün Bilgisi-Lisans Doðrulama: VAYCANINA.COM, Yazýlýmýn, KULLANICI ile iliþkilendirilebilmesi için etkinleþtirmeyi þart koþabilir ya da zaman zaman Yazýlýmla ilgili doðrulama denetimi gerçekleþtirebilir. Etkinleþtirme, doðrulama ya da internet tabanlý hizmetlerin kullanýmý sýrasýnda KULLANICI ve/veya Yazýlým VAYCANINA.COM’a bilgi gönderebilir veya Yazýlýmýn gerektiði gibi çalýþabilmesi açýsýndan karþýdan yüklemeler gerekebilir. Yazýlýmýn gerektiði gibi lisanslanmamýþ olmasý halinde iþlevleri ve kullanýmý bundan etkilenebilir. Ayrýca VAYCANINA.COM, Yazýlýmýn kullanma lisansýný takip, lisanssýz kullanýmlarýn önüne geçmek, iyileþtirmeler ve geliþtirmeler yapmak için ya da lisans doðrulama, aktifleþtirme ya da kullanýma son vermek amacýyla ve iþin gerekleriyle sýnýrlý olarak; KULLANICI nezdindeki Yazýlýma, kurulu bulunduðu donanýma, ürün ID'sine, modüllerine, etkinleþtirme anahtarýna, etkinleþtirme iþlemine, kullanýlan ya da kullanýlmayan fonksiyonlara ve konfigürasyonundan ibaret bilgilere otomatik olarak ulaþabilir, herhangi bir yolla eriþebilir, bunlarý izleyebilir, kayýt altýna alabilir ve lisans doðrulama ya da istatistikî amaçlar dâhil bu Sözleþmede belirtilen herhangi bir amaç için kullanabilir. KULLANICI belirtilen bilgilerle sýnýrlý olarak herhangi bir kýsýtlama olmayacaðýný ve gerekli izni Yazýlýmý kullanarak önceden verdiðini kabul etmiþtir.
+d) VAYCANINA.COM, Yazýlýmla ilgili olarak ya da Yazýlým nedeniyle kendi kontrolünde olmayan üçüncü kiþi mal ya da hizmet satýcýlarý ya da saðlayýcýlarýnýn iþlettiði baþka web sitelerine ve/veya portallara, dosyalara veya içeriklere 'link' verebilir. Linkler vasýtasýyla eriþilen portallar, web siteleri, dosyalar ve içerikler hakkýnda VAYCANINA.COM’ýn herhangi bir sorumluluðu yoktur.
+5.3 Mücbir Sebep
+VAYCANINA.COM, kendi kontrolü dýþýnda meydana gelen ve yasada sayýlan mücbir sebep hallerinden dolayý oluþabilecek herhangi bir gecikme veya yükümlülüklerin ifa edilememesinden kaynaklanabilecek zarar ve ziyandan sorumlu olmayacaktýr. Mücbir sebep halinin VAYCANINA.COM’ýn bu Sözleþmede yazýlý yükümlülüklerini doðrudan etkilemesi durumunda VAYCANINA.COM’ýn Sözleþmeyi tazminatsýz ve tek taraflý feshetme hakký saklýdýr.
+5.4 Kesin Delil Anlaþmasý
+Anlaþmazlýk halinde, VAYCANINA.COM’ýn tutmuþ olduðu her türlü kayýt, rapor, belge, doküman ve bilgisayar kayýtlarý anlaþmazlýklarýn çözümünde kesin delil teþkil eder.
+5.5 Haklarýn Kullanýlmasý
+Bu sözleþmeden doðan herhangi bir hakkýn süresi içinde kullanýlmamýþ olmasý, o haktan feragat edildiði anlamýna gelmez.
+5.6 Devir
+KULLANICI, Sözleþmeden doðan hak ve yükümlülüklerini 3. kiþi, kurum ve kuruluþlara devir ve temlik edemez. Bu türden devirler VAYCANINA.COM’a karþý hüküm ifade etmez ve Sözleþme kapsamýnda saðlanan haklarýn kesilmesine neden olur. VAYCANINA.COM, Sözleþmeden doðan hak ve yükümlülüklerini kendi sermaye iþtiraki olan kuruluþ, þirketler ile üçüncü þahýslara devretmek hakkýný haizdir.
+6. Yanký Komuta Asistan Sistemi Yazýlýmý 
+Elite komut sistemi(Yanký Komuta Asistan Sistemi) Yazýlýmý Bu sözleþme dahilinde fakat kullanýcý yazýlým lisansý ücretsizdir. (para ile satýlamaz satýn alýnamaz)
+Ayrýca Program içerisinde AutoitX3 gibi özel kütüphaneleri barýndýrdýðýndan yazýlýmý kullanabilmeniz için bu eklentilerin bilgisayarýnýzda yüklü olmasý gerekmektedir.
+Aktif Tuþ dinleme modu(oyun içi komutlarý algýlayabilmesi için) yazýlým içersininde olduðundan bazý antivürüs programlarý yazýlýma uyarý verebilir, Fakat programý kullanýp kullanmamak ve yazýlýmdan doðabilecek tüm zarar (oyun içi banlanma vs ) gibi her türlü sorumlulukKULLANICIYA aittir. Hiçbir þekilde programýn kullanýmýndan ötürü sorumluluk kabul edilmez.
+Programý baþka kaynaklardan indirmeniz durumunda oluþacak tüm zararlardanda KULLANICI sorumludur.
+Programý kullanmanýz dâhilinde sözleþmeyi kabul etmiþ ve tüm sorumluluðu üstlenmiþ sayýlýrsýnýz.
+

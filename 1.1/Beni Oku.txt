@@ -1,0 +1,20 @@
+Yazýlýmýn Çalýþmasý için AutoÝtX3 ün bilgisayarýnýzda kurulu olmasý gerekir, 
+AutoÝtX3 microsoft tarafýndan yazýlmýþ kavyeyi smile ederek taklit eden
+bir kütüphane(.dll) dosyasýdýr. 
+Bu yazýlýmla birlikte program oyunlara 
+komut yollayabilmektedir.
+
+Setup Sýrasýnda AutoitX3 yüklenmez ise, veya Program 
+Çalýþmaz ise 
+Program files deki AutoItX3 Ýsimli Klasöre Girerek, 
+Gerekli Dosyalarý Ýþletim sisteminizin Türüne göre
+(32-64 bit) Yükleyiniz.
+
+
+AutoItx3 ü Yükleme sýrasýnda hata alýrsanýz manuel olarak yüklemek için:
+AutoItX3.dll ve AutoItX3_x64.dll yi windows/system32 klasörüne
+atýn ve aþaðýdaki kodlarý CMD (windows komut sistemi) ne yapýþtýrarak 
+yükleyebilirsiniz
+regsvr32 C:\Windows\SysWOW64\AutoItX3_x64.dll = 64 bit olanalar
+regsvr32 C:\Windows\System32\AutoItX3.dll = 32 bit olanlar
+

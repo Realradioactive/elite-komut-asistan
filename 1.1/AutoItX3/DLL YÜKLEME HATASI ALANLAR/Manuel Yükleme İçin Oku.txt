@@ -1,0 +1,28 @@
+bunlarý Baþlat CMD yazýp Sað Click Yapýp 
+Yönetici Olarak Çalýþtýrnýz. 
+Aþadaki Yazýyý Koplayýp Cmd Yapýþtýrýnýz.
+
+regsvr32 C:\Windows\SysWOW64\AutoItX3_x64.dll = 64 bit olanalar
+regsvr32 C:\Windows\System32\AutoItX3.dll = 32 bit olanlar
+
+
+AutoItX3.dll ve AutoItX3_x64.dll yi windows/system32 klasörüne
+atýn ve aþaðýdaki kodlarý CMD (windows komut sistemi) ne yapýþtýrarak 
+yükleyebilirsiniz
+regsvr32 C:\Windows\SysWOW64\AutoItX3_x64.dll = 64 bit olanalar
+regsvr32 C:\Windows\System32\AutoItX3.dll = 32 bit olanlar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
