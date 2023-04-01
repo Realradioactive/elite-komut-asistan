@@ -1,12 +1,8 @@
 
 <p align="center">
 
-
-███████████████████████████████████████████████████████
-█─█─██▀▄─██─▄▄▄▄█─█─█▄─▄▄▀██▀▄─██▄─▄─▀█▄─▄─▀█▄─▄█─▄─▄─█
-█─▄─██─▀─██▄▄▄▄─█─▄─██─▄─▄██─▀─███─▄─▀██─▄─▀██─████─███
-▀▄▀▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▀▄▀▄▄▀▄▄▀▄▄▀▄▄▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▀▀▄▄▄▀▀
-
+█▀▀ █░░ █ ▀█▀ █▀▀   █▄▀ █▀█ █▀▄▀█ █░█ ▀█▀   ▄▀█ █▀ █ █▀ ▀█▀ ▄▀█ █▄░█   █▀ █ █▀ ▀█▀ █▀▀ █▀▄▀█ █
+██▄ █▄▄ █ ░█░ ██▄   █░█ █▄█ █░▀░█ █▄█ ░█░   █▀█ ▄█ █ ▄█ ░█░ █▀█ █░▀█   ▄█ █ ▄█ ░█░ ██▄ █░▀░█ █
  
 
        Elite Komut Asistan Sistemi
@@ -23,10 +19,24 @@
 
 #### Building from Source
 
-Clone this repository, and:
-```
-git clone https://github.com/Realradioactive/hashrabbit.git
+Kurulum için:
 
+
+```
+git clone https://github.com/Realradioactive/elite-komut-asistan.git
+
+1. adım: 
+veya windows için 
+sol üstteki CODE yazısına tıklayıp zip olarak indir deyin.
+ardıkdan setup ile kurulumu gerçekleştirin
+2.adım:https://www.autoitscript.com/site/autoit/downloads/ 
+dan gerekli kütüphaneyi indirin ve setup ile kurun. 
+(Aşağıdaki video çok eski ondaki kurulum yöntemi işe yaramazsa bunu kurun daha sağlıklı)
+3.adım:googleden "gvz komut anlar indir" diyerek gvz komutanlar programını indirin.
+program eski ve ücretsiz sesli komut verme programıdır.
+
+Kullanıma hazırsınız :)
+Not: Eğer gerekli araçları kurmazsanız yazılım doğru çalışmaz. 
 
 ```
 
